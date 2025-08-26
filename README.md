@@ -1,5 +1,5 @@
 # encryption-special
-encryption Zyphloraq
+encryption
 
 
 # Cifrador Seguro
